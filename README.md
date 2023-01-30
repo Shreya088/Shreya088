@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreya.
-- My prefered name is Rey_Pineapple.
+- My screen name is Rey_Pineapple.
 - 👀 I’m interested in the field of Development.
 - 🌱 I’m currently learning Linux,Java and Networking
 - 💞️ I’m looking to collaborate on Open Source Projects, Docker and Kubernetes.
