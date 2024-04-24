@@ -1,10 +1,11 @@
-Hello Everyone! My name is Shreya Bhardwaj.
-Let's connect and have a chat.
-Email: contact.shreyab@gmail.com
-LinkedIn: 
-Twitter: https://twitter.com/rey_pineapple
-Discord: shreyaaa_b
-Instagram: chaotic_little_asteroid
+Hello Everyone! 
+<br/>My name is Shreya Bhardwaj.
+<br/>Let's connect and have a chat.
+<br/>Email: contact.shreyab@gmail.com
+<br />LinkedIn: 
+<br />Twitter: https://twitter.com/rey_pineapple
+<br />Discord: shreyaaa_b
+<br />Instagram: chaotic_little_asteroid
 
 <!---
 Shreya088/Shreya088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
