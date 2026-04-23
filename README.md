@@ -1,21 +1,7 @@
-<!-- ======================= HEADER / HERO BANNER ======================= -->
-
 <div align="center">
 
-<img width="100%" alt="Cyber Developer Banner"
-src="https://raw.githubusercontent.com/Shreya088/Shreya088/main/assets/bannerImageGit.png" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Shreya+Bhardwaj;Frontend+Engineer+%7C+Java+Backend+Builder;Angular+%7C+Spring+Boot+%7C+PostgreSQL;Discipline+%3E+Motivation" />
-
-</div>
-
-<div align="center">
-
-### <span style="color:#a855f7;">Frontend Engineer</span> • Backend Transitioning Developer • India
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hi+I%27m+Shreya+Bhardwaj;Angular+Developer+%7C+Java+Spring+Boot+Developer;Building+Scalable+Systems;DSA+Focused+%7C+Growth+Driven" />
 
 </div>
 
@@ -23,12 +9,9 @@ src="https://raw.githubusercontent.com/Shreya088/Shreya088/main/assets/bannerIma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=orange" />
-<img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=DD0031" />
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,postgres,mysql,git,github,docker,postman,idea,vscode&perline=16" />
 
 </div>
 
@@ -38,32 +21,85 @@ src="https://raw.githubusercontent.com/Shreya088/Shreya088/main/assets/bannerIma
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-### 🚀 Projects  
-`3+`
-
-</td>
-<td align="center" width="25%">
-
-### 💻 Experience  
-`1+ Year`
+<img src="https://github-readme-stats.vercel.app/api?username=Shreya088&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=18" />
 
 </td>
-<td align="center" width="25%">
+<td width="50%">
 
-### 🧠 DSA  
-`150+ Problems`
-
-</td>
-<td align="center" width="25%">
-
-### 🎯 Focus  
-`20 LPA Path`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya088&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" />
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya088&theme=tokyonight&hide_border=true&border_radius=18" />
+
+</div>
+
+
+
+---
+
+## 🏗️ Featured Systems
+
+<table>
+<tr>
+<td width="33%">
+
+### Application Automation  
+Enterprise workflow system with approvals, roles, dynamic forms.
+
+`Angular` `Java` `SQL`
+
+</td>
+
+<td width="33%">
+
+### Requisition Approval  
+Procurement workflow across branches & departments.
+
+`Angular` `REST API`
+
+</td>
+
+<td width="33%">
+
+### Backend Transition Lab  
+Spring Boot APIs, Auth, JPA, Cloud DB projects.
+
+`Spring Boot` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect Terminal
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shreya-b-5018301bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:shreyabhardwaj0813@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreya088&theme=github-dark&hide_border=true&radius=16&area=true" />
 
 </div>
 
